@@ -1,0 +1,2 @@
+The goal of this assignment is to train a Named Entity Recognition (NER) model using Conditional Random Fields (CRF) to extract key entities from recipe data. The model will classify words into predefined categories such as ingredients, quantities and units, enabling the creation of a structured database of recipes and ingredients
+![image](https://github.com/user-attachments/assets/311fc644-96f9-4c96-9739-9e25f2097d94)
